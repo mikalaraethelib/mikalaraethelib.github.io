@@ -5,13 +5,13 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/narlock-headshot-032023.jpg "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Mikala Narlock is the Director of Research Data Services at Indiana University. Previously, she held positions as the Director of the Data Curation Network, based at the University of Minnesota Libraries, and as the Digital Collections Strategy Librarian at the Unviersity of Notre Dame. She earned her MLS, with an emphasis in Archives and Records Management, from Indiana University. She graduated summa cum laude from the University of San Diego, where she earned her BA in Interdisciplinary Humanities with an empahsis in History and a minor in German.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Her research interests include data curation, digital preservation, and slow data services. She publishes and presents frequently on these, and other, topics.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+She is a proud dog mom to Lil Jeff and Marnie. 
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com

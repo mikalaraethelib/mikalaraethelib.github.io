@@ -19,12 +19,8 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-<<<<<<< HEAD
 url: "https://mikalaraethelib.github.io/" # the base hostname & protocol for your site
-=======
-url: "" # the base hostname & protocol for your site
->>>>>>> parent of b30055c (Update _config.yml)
-cover: "/assets/header_image.jpg"
+cover: "/assets/header_image-1.jpeg"
 logo: "/assets/logo.png"
 
 # Build settings

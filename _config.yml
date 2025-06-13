@@ -36,19 +36,15 @@ pagination:
   permalink: "/page/:num/"
   sort_reverse: true
 
-<<<<<<< HEAD
-
-=======
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
->>>>>>> parent of b30055c (Update _config.yml)
+# jekyll-archives:
+  #enabled:
+   # - categories
+    #- tags
+  #layout: 'archive'
+  #permalinks:
+   # category: '/category/:name/'
+    #tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra

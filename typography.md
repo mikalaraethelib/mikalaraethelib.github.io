@@ -5,17 +5,23 @@ permalink: /cv/
 main_nav: true
 ---
 
-<p><em>last updated: june 13, 2025></p>
+<p><em>last updated: june 13, 2025><em></p>
+
 ## Employment
 
 **Indiana University Libraries, Indiana University**  
 April 2025 \- Present  
 Director, Research Data Services
 
+
 * Develop and implement strategies for delivering research data programming, resources, and services for students and researchers in alignment with broader initiatives across the Libraries and IU’s research campuses    
+
 * Provide leadership, direction, and vision for Research Data Services personnel and maintain a work environment that encourages development, engagement, and job satisfaction     
+
 * Lead and coordinate the Libraries Research Data Services Working Group, a collaborative group of data librarians at IU Bloomington and IU Indianapolis that shares expertise and identifies emerging needs and opportunities for library-based research data services    
+
 * Communicate and regularly engage with a variety of library, campus, and university partners who provide and support data services through technical infrastructure, collections, open initiatives, scholarly communication, external funding, information technology, and instruction/training/consultation services    
+
 * Provide leadership for Libraries participation in the IU Research Data Commons initiative (https://researchdata.iu.edu)    
     
   **Data Curation Network, University of Minnesota**   

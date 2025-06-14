@@ -5,7 +5,7 @@ permalink: /cv/
 main_nav: true
 ---
 
-<p><em>last updated: june 13, 2025</em></p>
+<p><em>last updated: June 13, 2025</em></p>
 
 <h2>Selected Publications</h2>
 

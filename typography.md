@@ -5,14 +5,13 @@ permalink: /cv/
 main_nav: true
 ---
 
-<p><em>last updated: june 13, 2025></em></p>
+<p><em>last updated: june 13, 2025</em></p>
 
 <h2>Selected Publications</h2>
 
 <h3>Reports</h3>
 
 Narlock, M., Carlson, J., Cowles, W., Delserone, L., Herndon, J., Kozlowski, W., & Petters, J. (2024) Institutionally based research data services: Current developments and future direction. [https://doi.org/10.24926/2024.70098](https://doi.org/10.24926/2024.70098)
-
 
 Carlson, J., Narlock, M., Blake, M., Herndon, J., Imker, H., Johnston, L., Kozlowski, W., Xuying Xin, C., Lafferty-Hess, S., Luong, H., Marsolek, W., Moore, J., Scott, D., Hudson Vitale, C., Ezray Wham, B., & Wright, S. (2023). The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration. Edited by Jake Carlson and Mikala Narlock. [https://doi.org/10.3998/mpub.12782791](https://doi.org/10.3998/mpub.12782791). 
 
@@ -28,77 +27,29 @@ Luong, H., Narlock, M., & Petters, J. (2022). ‘We’re all doing the best we c
 
 Meyers, N., Martinez-Montavon, A. M., Narlock, M., & Stathers, K (2021) A genealogy of refusal: Walking away from crisis and scarcity narratives. Canadian Journal of Academic Librarianship 7 (December):1-18. [https://doi.org/10.33137/cjalrcbu.v7.36442](https://doi.org/10.33137/cjalrcbu.v7.36442).
 
-Bertoldi, H., Griesinger, P., & Narlock M. (2021)  Harmonizing human infrastructure: A case study of bringing preservation workflows of a library, archive, and museum into alignment. Proceedings of the 17th International Conference on Digital Preservation iPRES 2021\. Beijing,China. Preprint: [https://curate.nd.edu/show/gb19f478c0w](https://curate.nd.edu/show/gb19f478c0w).
-
 Narlock, M. and Brower, D. (2021) Product ownership of a legacy repository: A case study on revitalizing an aging service. Information Technology and Libraries. 40 (3). [doi:10.6017/ital.v40i3.13241](https://doi.org/10.6017/ital.v40i3.13241). 
-
-Narlock, M. & Griesinger, P. (2020) A workflow for workflows: Case management at the University of Notre Dame Hesburgh Libraries. Journal of Digital Media Management. 9 (1), 51-62. [doi:10.7274/r0-fbse-ea26](https://dx.doi.org/doi:10.7274/r0-fbse-ea26).
 
 Donaldson, D. R., McClanahan, A., Christiansen, L., Bell, L., Narlock, M., Martin, S., & Suby, H. (2018). Media Digitization and Preservation Initiative: A case study. International Journal of Digital Curation, 13(1), 91-113. [https://doi.org/10.2218/ijdc.v13i1.502](https://doi.org/10.2218/ijdc.v13i1.502). 
 
 **Book Chapters**
 
-Berger, T. and Narlock, M. (forthcoming). Scanning in the Name Of: A Call for Slow in Digitization and Digital Collections. *Slow Librarianship: Reflections and Practices,* ed. Ashley Rosener. Sacramento, CA: Library Juice Press.
-
-Thielen, J., Marsolek, W., and Narlock, M. (forthcoming). It’s ok to push back: successes and challenges in implementing Slow for data services. *Slow Librarianship: Reflections and Practices,* ed. Ashley Rosener. Sacramento, CA: Library Juice Press.
-
 Narlock, M., Costanzo, L., and Gallant, A. (2025) Reviewing and taking care of community research data. *Community Research Data Toolkit,* eds. Danica Evering and Subhanya Sivajothy. Hamilton, ON: McMaster University Libraries. 
-
-Evering, D., Gallant, A., Narlock, M. and Costanzo, L. (2025) Data Deposit: community care and control over data. *Community Research Data Toolkit,* eds. Danica Evering and Subhanya Sivajothy. Hamilton, ON: McMaster University Libraries. 
 
 Higgs-Kopin, E. and Narlock, M. (2024). Digital preservation expertise and labor throughout the project lifecycle. In *The Routledge Companion to Libraries, Archives, and the Digital Humanities*, eds. Isabel Galina Russell and Glen Layne-Worthey. London, UK: Routledge.
 
-Bertoldi, H., Griesinger, P., & Narlock, M. (2023) All we want are the facts, ma'am: Negotiating user needs and creator privacy in name authority records. In Ethics in Linked Data, eds. Alexandra Provo, Kathleen Burlingame, and B.M. Watson. Sacramento, CA: Library Juice Press. Preprint: [doi:10.7274/r494vh57h6s](https://doi.org/10.7274/r494vh57h6s).
-
 **Other Publications** 
-
-Narlock, M., Carlson, J., Cowles, W., Delserone, L., Herndon, J., Kozlowski, W., & Petters, J. (2025) Traveling on the same road while navigating different terrain: Institutional data services and repositories across the US. International Journal of Digital Curation. [https://doi.org/10.2218/ijdc.v19i1.1060](https://doi.org/10.2218/ijdc.v19i1.1060). 
-
-Lafferty-Hess, S., Erickson, S., Keshavarzian, N., Marsolek, W., Moore, J., & Narlock, M. (2025). Developing Specialized Data Curation Curricula to Meet Growing Demands: A Community-based and Evolving Approach. International Journal of Digital Curation. [https://doi.org/10.2218/ijdc.v19i1.1056](https://doi.org/10.2218/ijdc.v19i1.1056). 
 
 Darragh, J., Narlock, M., Burns, H., Cerda, P., Cowles, W., Delserone, L., Erickson, S., Herndon, J., Imker, H., Johnston, L., Lake, S., Lenard, M., Hofelich Mohr, A., Moore, J., Petters, J., Pullen, B., Taylor, S., & Wham, B. (2024). Institutional data repositories are vital. *Science* 385,1174-1174. DOI:10.1126/science.adr0789   
 
 Burns, H., Caldrone, S., & Narlock, M. (2024). Curation is Communal: Transparency, Trust, and (In)visible Labour. International Journal of Digital Curation. [https://doi.org/10.2218/ijdc.v18i1.938](https://doi.org/10.2218/ijdc.v18i1.938) 
 
-Narlock, M. (2024). "Navigating the Currents: Reflections from the Community Data Toolkits Workshop." Journal of eScience Librarianship 13 (2): e935. [https://doi.org/10.7191/jeslib.935](https://doi.org/10.7191/jeslib.935).
-
-Kozlowski, W., Herndon, J., Taylor, S., Hudson Vitale, C., Carlson, J., Hofelich Mohr, A., Moore, J., Narlock, M., & Petters, J. “Realities of Academic Data Sharing (RADS) Initiative Public-Access Data Management and Sharing (DMS) Activities,” v3. Washington, DC: Association of Research Libraries, November 6, 2023\. [https://doi.org/10.29242/radsdmsactivities2023](https://doi.org/10.29242/radsdmsactivities2023).
-
 Thielen, J., Marsolek, W., &  Narlock, M. (2023.) Are You There, Promotion and Tenure Committee? It’s Me, Data. Commonplace, series 3.2. [https://doi.org/10.21428/6ffd8432.112a2221](https://doi.org/10.21428/6ffd8432.112a2221).
 
 Thielen, J. & Marsolek, W. & Narlock, M. (2023) Conceptualizing Slow Curation.  Journal of eScience Librarianship 12(2), e740. doi: [https://doi.org/10.7191/jeslib.740](https://doi.org/10.7191/jeslib.740). 
 
-Hadley, H. & Narlock, M., (2023) Emphasizing our humanity: Interorganizational collaboration in the DCN during COVID and into the future.  Journal of eScience Librarianship 12(2), e680. doi: [https://doi.org/10.7191/jeslib.680](https://doi.org/10.7191/jeslib.680). 
-
 Narlock, M. & Robison, M. (2022) Liaison librarianship in shiny packages: An exploration of product ownership in academic libraries. International Information & Library Review. [doi:10.1080/10572317.2022.2025672](https://www.tandfonline.com/doi/full/10.1080/10572317.2022.2025672).
 
 Narlock, M., Johnson, D., & Vecchio, J. (2021). Digital preservation services at digital scholarship centers. The Journal of Academic Librarianship, 47 (3). [https://doi.org/10.1016/j.acalib.2021.102334](https://doi.org/10.1016/j.acalib.2021.102334).
-
-Narlock, M. & Griesinger, P. (2021) Comparing apples and oranges: Prioritizing digital collections. Against the Grain, 32 (6). [https://dx.doi.org/doi:10.7274/r0-mtnv-ka88](https://dx.doi.org/doi:10.7274/r0-mtnv-ka88).
-
-Brower, D., Gesing, S., Johnson, R., Meyers, N., Meyerson, J., & Narlock, M. (2020). On institutional repositories, beyond the repository services, their content, maintainers, and stakeholders. Against the Grain, 32 (1). [https://against-the-grain.com/2020/04/v321-atg-special-report-on-institutional-repositories-beyond-the-repository-services-their-content-maintainers-and-stakeholders/](https://against-the-grain.com/2020/04/v321-atg-special-report-on-institutional-repositories-beyond-the-repository-services-their-content-maintainers-and-stakeholders/).
-
-Narlock, M., Lawton, P. & Rader, P. (2019). The rise and fall of favor-based digitization: Workflows taste better on a cake. Midwest Archives Conference Newsletter 47 (2). [doi:10.7274/r0-9cnw-w345](https://dx.doi.org/doi:10.7274/r0-9cnw-w345).
-
-**Digital Projects**
-
-Bohman, L., Narlock, M., & Nurnberger, A. L. (2025). Data Rescue Project: Data Rescue Event Kit. Retrieved from [osf.io/zbdxt](http://osf.io/zbdxt). 
-
-Hudson Vitale, C., Hadley, H., Wham, B., Borda, S., Carlson, J., Darragh, J., Fearon, D., Herndon, J., Hunt, S., Johnston, LR., Kalt, M., Kozlowski, W., Lafferty-Hess, S., Marsolek, W., Moore, J., Narlock, M., Scott, D., Wheeler, J., Woodbrook, R., Wright, S., Yee, M., Lake, S. (2024). CURATE(D) Fundamentals Workshop. Retrieved from the University Digital Conservancy, [https://doi.org/10.24926/2024.265916](https://doi.org/10.24926/2024.265916).
-
-Arteaga Cuevas, M., Taylor, S., & Narlock, M. (2023) Introduction to research data management for researchers (Version 1.0). Data Curation Network: Data Curation Primers. Archival version: [https://hdl.handle.net/11299/253157](https://hdl.handle.net/11299/253157). 
-
-Gonzalez, L., Narlock, M., & Taylor, S. (2022). Clinical trials data primer (Version 1.0). Data Curation Network: Data Curation Primers. Archival version: [https://hdl.handle.net/11299/250108](https://hdl.handle.net/11299/250108) 
-
-Castillo, D., Coates, H., & Narlock, M. (2021). Qualitative data primer (Version 1.0). Data Curation Network: Data Curation Primers. Archival version: [https://hdl.handle.net/11299/219053](https://hdl.handle.net/11299/219053). 
-
-**Datasets**
-
-Narlock, M., Priesman Marquez, R., Herrmann, H., & Ibrahim, M. (2023). Data for "Knowledge Infrastructures Are Growing Up: The Case for Institutional (Data) Repositories 10 Years After the Holdren Memo". Retrieved from the Data Repository for the University of Minnesota, [https://doi.org/10.13020/w8nk-d131](https://doi.org/10.13020/w8nk-d131).
-
-Narlock, M., Johnson, D., & Vecchio, J. C. (2021). Digital Preservation Services in Digital Scholarship Centers Survey-- Final Data. [https://doi.org/10.17605/OSF.IO/3YJ8A](https://doi.org/10.17605/OSF.IO/3YJ8A). 
-
-Donaldson, D., McClanahan, A., Christiansen, L., Bell, L., Narlock, M., Martin, S., & Suby, H. (2018). Field Notes for Media Digitization and Preservation Initiative: A Case Study. [http://hdl.handle.net/2022/22101](http://hdl.handle.net/2022/22101). 
 
 ## Presentations
 

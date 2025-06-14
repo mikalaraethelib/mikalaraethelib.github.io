@@ -5,13 +5,14 @@ permalink: /cv/
 main_nav: true
 ---
 
-<p><em>last updated: june 13, 2025><em></p>
+<p><em>last updated: june 13, 2025></em></p>
 
 <h2>Selected Publications</h2>
 
 <h3>Reports</h3>
 
-Narlock, M., Carlson, J., Cowles, W., Delserone, L., Herndon, J., Kozlowski, W., & Petters, J. (2024) Institutionally based research data services: Current developments and future direction. [https://doi.org/10.24926/2024.70098](https://doi.org/10.24926/2024.70098) 
+Narlock, M., Carlson, J., Cowles, W., Delserone, L., Herndon, J., Kozlowski, W., & Petters, J. (2024) Institutionally based research data services: Current developments and future direction. [https://doi.org/10.24926/2024.70098](https://doi.org/10.24926/2024.70098)
+
 
 Carlson, J., Narlock, M., Blake, M., Herndon, J., Imker, H., Johnston, L., Kozlowski, W., Xuying Xin, C., Lafferty-Hess, S., Luong, H., Marsolek, W., Moore, J., Scott, D., Hudson Vitale, C., Ezray Wham, B., & Wright, S. (2023). The Art, Science, and Magic of the Data Curation Network: A Retrospective on Cross-Institutional Collaboration. Edited by Jake Carlson and Mikala Narlock. [https://doi.org/10.3998/mpub.12782791](https://doi.org/10.3998/mpub.12782791). 
 

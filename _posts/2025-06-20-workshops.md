@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "June 2025 Updates"
-date:   2025-06-21T10:28:52-05:00
+date:   2025-06-20T10:28:52-05:00
 author: Mikala Narlock
 categories: dummy
 ---

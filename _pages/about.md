@@ -11,3 +11,5 @@ This website serves as my independent space to share work, ideas, and reflection
 I strive to adopt Slow principles in my professional and personal life-- because what you pay attention to grows (Emergent Strategy) -- and in order to say yes to joy, opportunities, fulfillment, we have to say no sometimes. 
 
 I'm always open to connecting with fellow librarians, researchers, and anyone interested in thoughtful approaches to data stewardship. Feel free to reach out.
+
+Theme: [Minimal Mistakes](https://jekyllthemes.io/theme/minimal-mistakes)

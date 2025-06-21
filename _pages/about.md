@@ -2,7 +2,12 @@
 permalink: /about/
 title: "About"
 ---
+## Mikala Rae Narlock
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a research data librarian who believes that good data stewardship is about much more than storage and organization-- it's about building sustainable systems that serve both current needs and future possibilities. I've developed deep expertise in data curation, particularly around the challenging questions of what we preserve, what we let go, and how we make those decisions thoughtfully. My research explores data preservation, retention policies, and deaccessioning practices-- areas where technical knowledge meets ethical responsibility.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This website serves as my independent space to share work, ideas, and reflections that span across institutions and positions. It's where I can think out loud about the field and contribute to conversations that matter to me.
+
+I strive to adopt Slow principles in my professional and personal life-- because what you pay attention to grows (Emergent Strategy) -- and in order to say yes to joy, opportunities, fulfillment, we have to say no sometimes. 
+
+I'm always open to connecting with fellow librarians, researchers, and anyone interested in thoughtful approaches to data stewardship. Feel free to reach out.

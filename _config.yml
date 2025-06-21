@@ -1,7 +1,7 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - # jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
 
@@ -32,6 +32,8 @@ highlightjs_theme: "monokai-sublime"
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
+  collection: 'posts'
+  category: 'general'
   per_page: 5
   sort_reverse: true
 
@@ -53,7 +55,7 @@ pagination:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: General
+  - cat: general
     desc: "Posts of general interest (or no interest at all)."
 
   - cat: dummy

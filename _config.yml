@@ -59,18 +59,11 @@ author:
   avatar : "/assets/images/narlock-headshot-032023.jpg"
   bio    : "Research Librarian + Dog Mom."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: ORCID"
+      url: "https://orcid.org/0000-0002-2730-7542"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/mikala-narlock/"
+
 
 footer:
   links:
